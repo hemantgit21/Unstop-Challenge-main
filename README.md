@@ -63,9 +63,3 @@
 `routes/web.php`
 
 
-my skills
-
-
-## 🔗 Links
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://in.linkedin.com/in/kunal-pandharkar-513994188)
-
