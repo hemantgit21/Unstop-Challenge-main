@@ -63,11 +63,6 @@
 `routes/web.php`
 
 
-
-
-## 🚀 About Me
-Full stack web developer having an experience of developing and deploying successful projects as per 
-client requirements and specifications, looking for a challenging role in reputable organization to utilize 
 my skills
 
 
